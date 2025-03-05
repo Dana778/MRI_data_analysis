@@ -1,0 +1,2 @@
+InstallForMacOSIntelProcessor.app/Contents/MacOS/InstallForMacOSIntelProcessor filter=lfs diff=lfs merge=lfs -text
+данные/TimeCourses.rar filter=lfs diff=lfs merge=lfs -text
